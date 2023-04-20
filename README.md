@@ -2,7 +2,7 @@
 Projeto criado junto com o curso da Origamid. totalmente responsivo e funcional
 
 Link para acessar e testar:
-https://viniciusitakura.github.io/bikecraft.github.io/contato.html
+https://viniciusitakura.github.io/bikecraft.github.io/
 
 Algumas imagens:
 
