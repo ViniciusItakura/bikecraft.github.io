@@ -1,5 +1,6 @@
 # bikecraft.github.io
-Projeto criado junto com o curso da Origamid. totalmente responsivo e funcional
+Projeto criado junto com o curso da Origamid, totalmente responsivo e funcional!!
+Tecnologias ultilizadas: HTML, CSS e JavaScript.
 
 Link para acessar e testar:
 https://viniciusitakura.github.io/bikecraft.github.io/
